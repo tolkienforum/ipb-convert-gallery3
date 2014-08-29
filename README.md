@@ -21,10 +21,21 @@ I have not tested all cases (e.g. images and albums within the same album).
 
 ## Instructions:
 
+### Versions:
 
-**Backup EVERYTHING!! I mean it!** 
+The script was made for:
 
-The Gallery database is only used for reading. Obviously the Invisionboard database will be changed.
+-   [Gallery 3.0.9](http://galleryproject.org/)
+-   [Invisionboard / 	IP.Board 3.4.6](http://www.invisionpower.com/apps/board/)
+-   [IPS Converters 3.4 (Build 1.2.10)](http://community.invisionpower.com/files/file/4715-ips-converters/)
+
+**Backup EVERYTHING!! I mean it!**  
+Dump the Gallery Database
+Dump the Forum Database
+Zip/Copy the Forum and the Gallery Image Folder
+
+The Gallery database is only used for reading. Obviously the Invisionboard database will be changed. Same
+is valid for the folder structure.
 
 ### Prepare the Gallery:
 
