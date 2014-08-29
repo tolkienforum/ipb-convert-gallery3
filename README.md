@@ -29,6 +29,16 @@ The script was made for:
 -   [Invisionboard / 	IP.Board 3.4.6](http://www.invisionpower.com/apps/board/)
 -   [IPS Converters 3.4 (Build 1.2.10)](http://community.invisionpower.com/files/file/4715-ips-converters/) and Gallery 5.0.5
 
+The motivation is mainly based on having only one Gallery to maintain. Lately it was announced 
+that [Gallery 3](http://galleryproject.org/time-to-hibernate) is going into hibernation :-( - this
+is a bit sad, since Gallery 3 was a fast and reliable software. If you want to jump in: the sources
+are on [GitHub](https://github.com/wemu/ipb-convert-gallery3)
+
+I hope this class is of some use for you!
+
+
+### Backup, Backup, Backup
+
 **Backup EVERYTHING!! I mean it!**  
 Dump the Gallery Database
 Dump the Forum Database
