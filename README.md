@@ -27,7 +27,7 @@ The script was made for:
 
 -   [Gallery 3.0.9](http://galleryproject.org/)
 -   [Invisionboard / 	IP.Board 3.4.6](http://www.invisionpower.com/apps/board/)
--   [IPS Converters 3.4 (Build 1.2.10)](http://community.invisionpower.com/files/file/4715-ips-converters/)
+-   [IPS Converters 3.4 (Build 1.2.10)](http://community.invisionpower.com/files/file/4715-ips-converters/) and Gallery 5.0.5
 
 **Backup EVERYTHING!! I mean it!**  
 Dump the Gallery Database
