@@ -63,6 +63,14 @@ is valid for the folder structure.
 - Login to the IP.Board administration console and go to the converter app.
 - Start a new conversion. Choose the *Menalto Gallery 3* converter. Some steps will require additional information.
 
+### Post-Conversion Tasks
+
+- Adjust the permissions
+- recount / rebuild the categories and albums
+- lock (or uninstall) the converter
+- Turn your gallery online again (it is set to offline once the conversion starts)
+
+
 ## Log-Files and Errors:
 
 Usually the conversion fails with some SQL error. It can be found in *<IP.Board_Home>/cache/sql_error_latest.cgi*
