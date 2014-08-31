@@ -62,6 +62,9 @@ is valid for the folder structure.
 - copy the gallery3.php file from this repository to the converter.
 - Login to the IP.Board administration console and go to the converter app.
 - Start a new conversion. Choose the *Menalto Gallery 3* converter. Some steps will require additional information.
+- HINT: check the IP.Gallery settings and the configured image sizes (see Screenshot in doc/images). IP.Gallery  
+  will resize all added images when you rebuild all images. I would recommend large sizes so the preview images  
+  can be rebuild with a bigger size in the future.
 
 ### Post-Conversion Tasks
 
